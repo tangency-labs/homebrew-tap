@@ -1,6 +1,6 @@
 cask "solidcraft" do
-  version "0.27.0"
-  sha256 "f22d6b4c6440d43572edb93b03f0e4d3cd92ffd532caf730205176b4a08efa93"
+  version "0.27.1"
+  sha256 "38d995d052f0d073a19aa945dc28ccee6dc97dba7e73600e93dc6dd4d36f6a28"
 
   url "https://github.com/tangency-labs/solidcraft/releases/download/v#{version}/solidcraft-#{version}-macos-universal.dmg"
   name "SolidCraft"
